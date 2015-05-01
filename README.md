@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 chatty
 ======
 
@@ -148,3 +149,6 @@ app.use(function(req, res, next) {
 Anything that runs in the above function will happen before every request is processed. It's a great place to put header modification. 
 
 Use your own custom middleware to add the appropriate headers to your server.js. It should look something like this: https://gist.github.com/cahlan/7027693
+=======
+# chatty-poss-solution
+>>>>>>> 0acba30ef50b63cc8079ea6e586148e68d79053c
